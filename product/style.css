@@ -1,0 +1,7 @@
+
+
+#header .img{
+    background-image: url(../img/hero.jpg);
+    background-size: cover;
+    min-height: 30rem;
+}
